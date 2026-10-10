@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support
+Glioma Tumor,0.931,0.924,0.927,200
+Meningioma Tumor,0.928,0.941,0.934,200
+No Tumor,0.947,0.945,0.946,200
+Pituitary Tumor,0.965,0.96,0.962,200
+weighted avg,0.943,0.942,0.942,800
